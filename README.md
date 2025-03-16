@@ -11,7 +11,7 @@ This chatbot answers questions about documents using a combination of local data
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](document_q&a_chatbot_architecture.png)
 
 The chatbot uses a Retrieval Augmented Generation (RAG) approach with:
 
