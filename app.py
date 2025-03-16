@@ -258,7 +258,7 @@ def setup_agent(vectorstore):
     Final Answer: the final answer to the original input question
     
     {{chat_history}}
-    Question: {input}
+    Question: {{input}}
     {{agent_scratchpad}}
     """)
     
